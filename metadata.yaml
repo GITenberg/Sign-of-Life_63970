@@ -1,0 +1,39 @@
+_repo: Sign-of-Life_63970
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Vestal, Herman B.
+    aliases:
+    - Vestal, Herman Beeson
+    - Vestal, H. B. (Herman B.)
+    birthdate: 1916
+    deathdate: 2007
+    gutenberg_agent_id: '33400'
+    url: http://www.gutenberg.org/2009/agents/33400
+creator:
+  author:
+    agent_name: Dryfoos, Dave
+    alias: Dryfoos, David M.
+    birthdate: 1915
+    deathdate: 2003
+    gutenberg_agent_id: '34175'
+    url: http://www.gutenberg.org/2009/agents/34175
+description: ''
+gutenberg_issued: '2020-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63970'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Venus (Planet) -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Outer space -- Exploration -- Fiction'
+- !lcsh 'Interplanetary voyages -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Sign of Life
+url: http://www.gutenberg.org/ebooks/63970
